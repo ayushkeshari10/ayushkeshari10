@@ -160,9 +160,9 @@
 
 <a href="https://github.com/ayushkeshari10">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushkeshari10/ayushkeshari10/main/profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushkeshari10/ayushkeshari10/main/profile-3d-contrib/profile-green-animate.svg">
-    <img alt="3D Contributions" src="https://raw.githubusercontent.com/ayushkeshari10/ayushkeshari10/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushkeshari10/ayushkeshari10/main/profile-3d-contrib/profile-green-animate.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushkeshari10/ayushkeshari10/main/profile-3d-contrib/profile-season-animate.svg">
+    <img alt="3D Contributions" src="https://raw.githubusercontent.com/ayushkeshari10/ayushkeshari10/main/profile-3d-contrib/profile-green-animate.svg">
   </picture>
 </a>
 
