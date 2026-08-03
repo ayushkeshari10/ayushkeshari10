@@ -4,8 +4,8 @@
 <!-- ║           ANIMATED WAVE HEADER                      ║ -->
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=240&section=header&text=Ayush%20Keshari&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=20&reversal=false&stroke=7fdbff&strokeWidth=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=10,24,28&height=240&section=header&text=Ayush%20Keshari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=20&reversal=false&stroke=0969da&strokeWidth=1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6%2C11%2C20&height=240&section=header&text=Ayush%20Keshari&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=20&reversal=false&stroke=7fdbff&strokeWidth=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=10%2C24%2C28&height=240&section=header&text=Ayush%20Keshari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=20&reversal=false&stroke=0969da&strokeWidth=1">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=240&section=header&text=Ayush%20Keshari&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=20&reversal=false&stroke=7fdbff&strokeWidth=1" />
 </picture>
 
@@ -371,8 +371,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,24,28&height=130&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6%2C11%2C20&height=130&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10%2C24%2C28&height=130&section=footer">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" />
 </picture>
 
