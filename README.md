@@ -55,9 +55,23 @@
 ---
 
 <!-- ╔══════════════════════════════════════════════════════╗ -->
-<!-- ║           ANIMATED TERMINAL — ABOUT ME              ║ -->
+<!-- ║           ABOUT ME SECTION                          ║ -->
 <!-- ╚══════════════════════════════════════════════════════╝ -->
-## 🖥️ About Me
+## 👋 About Me
+
+🚀 Passionate Full-Stack Developer & AI/ML Engineer building real-time web applications, predictive machine learning models, and high-impact hackathon solutions.
+
+<br/>
+
+<div align="center">
+
+| 🎓 Degree | 🏛️ Institution | 📍 Location | 🗓️ Batch |
+|:---|:---|:---:|:---:|
+| **B.Tech CSE (AI & ML)** | **Galgotias College of Engineering & Technology** | Greater Noida, UP 🇮🇳 | 2023 – 2027 |
+
+</div>
+
+<br/>
 
 <div align="center">
 
