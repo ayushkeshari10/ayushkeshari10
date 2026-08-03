@@ -291,13 +291,7 @@
 
 <div align="center">
 
-<a href="https://github.com/ayushkeshari10/LeetCode-Solutions">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ayushkeshari10&repo=LeetCode-Solutions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFA116&text_color=c9d1d9&icon_color=FFA116">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ayushkeshari10&repo=LeetCode-Solutions&theme=default&hide_border=true&bg_color=ffffff&title_color=d25b0a&text_color=24292f&icon_color=d25b0a">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ayushkeshari10&repo=LeetCode-Solutions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFA116&text_color=c9d1d9&icon_color=FFA116" />
-</picture>
-</a>
+
 <a href="https://github.com/ayushkeshari10/Webd-projects">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ayushkeshari10&repo=Webd-projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fdbff&text_color=c9d1d9&icon_color=7fdbff">
