@@ -179,7 +179,6 @@
 
 <div align="center">
 
-**🐍 Snake Mode**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushkeshari10/ayushkeshari10/output/github-contribution-grid-snake-dark.svg">
@@ -187,13 +186,7 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/ayushkeshari10/ayushkeshari10/output/github-contribution-grid-snake.svg">
 </picture>
 
-**🟡 Pac-Man Mode**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushkeshari10/ayushkeshari10/output/github-contribution-grid-snake-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushkeshari10/ayushkeshari10/output/github-contribution-grid-snake.gif">
-  <img alt="Pac-Man animation" src="https://raw.githubusercontent.com/ayushkeshari10/ayushkeshari10/output/github-contribution-grid-snake.gif">
-</picture>
 
 </div>
 
