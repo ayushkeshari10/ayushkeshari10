@@ -135,13 +135,13 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves transf
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=ayushkeshari10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7fdbff&icon_color=7fdbff&text_color=c9d1d9&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage"/>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkeshari10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fdbff&text_color=c9d1d9&langs_count=8"/>
+<img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayushkeshari10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7fdbff&icon_color=7fdbff&text_color=c9d1d9&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage"/>
+<img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayushkeshari10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fdbff&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
 <div align="center">
-<img width="72%" src="https://github-readme-streak-stats.herokuapp.com?user=ayushkeshari10&theme=tokyonight&hide_border=true&background=0d1117&stroke=7fdbff&ring=7fdbff&fire=FF6347&currStreakNum=FFFFFF&sideNums=7fdbff&currStreakLabel=7fdbff&sideLabels=7fdbff&dates=888888&excludeDaysLabel=888888" alt="Streak Stats"/>
+<img width="72%" src="https://streak-stats.demolab.com?user=ayushkeshari10&theme=tokyonight&hide_border=true&background=0d1117&stroke=7fdbff&ring=7fdbff&fire=FF6347&currStreakNum=FFFFFF&sideNums=7fdbff&currStreakLabel=7fdbff&sideLabels=7fdbff&dates=888888&excludeDaysLabel=888888" alt="Streak Stats"/>
 </div>
 
 ---
@@ -153,7 +153,7 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves transf
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ayushkeshari10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fdbff&text_color=c9d1d9&langs_count=10&layout=compact&custom_title=Weekly%20Coding%20Breakdown" width="70%" alt="WakaTime Stats"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=ayushkeshari10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fdbff&text_color=c9d1d9&langs_count=10&layout=compact&custom_title=Weekly%20Coding%20Breakdown" width="70%" alt="WakaTime Stats"/>
 
 > ⚙️ *[Set up WakaTime](https://wakatime.com) → Install the VS Code extension → Your weekly coding breakdown auto-updates here!*
 
@@ -304,10 +304,10 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves transf
 <div align="center">
 
 <a href="https://github.com/ayushkeshari10/CareerMind-AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushkeshari10&repo=CareerMind-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFCA28&text_color=c9d1d9&icon_color=FFCA28&description_lines_count=2" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ayushkeshari10&repo=CareerMind-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFCA28&text_color=c9d1d9&icon_color=FFCA28&description_lines_count=2" />
 </a>
 <a href="https://github.com/ayushkeshari10/QuestClash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushkeshari10&repo=QuestClash&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fdbff&text_color=c9d1d9&icon_color=7fdbff" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ayushkeshari10&repo=QuestClash&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fdbff&text_color=c9d1d9&icon_color=7fdbff" />
 </a>
 
 </div>
@@ -317,10 +317,10 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves transf
 <div align="center">
 
 <a href="https://github.com/ayushkeshari10/LeetCode-Solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushkeshari10&repo=LeetCode-Solutions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFA116&text_color=c9d1d9&icon_color=FFA116" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ayushkeshari10&repo=LeetCode-Solutions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFA116&text_color=c9d1d9&icon_color=FFA116" />
 </a>
 <a href="https://github.com/ayushkeshari10/Webd-projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushkeshari10&repo=Webd-projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fdbff&text_color=c9d1d9&icon_color=7fdbff" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ayushkeshari10&repo=Webd-projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fdbff&text_color=c9d1d9&icon_color=7fdbff" />
 </a>
 
 </div>
