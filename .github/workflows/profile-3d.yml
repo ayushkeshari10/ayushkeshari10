@@ -1,0 +1,43 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 6 * * *"     # Runs daily at 6 AM UTC
+  workflow_dispatch:         # Allows manual trigger from GitHub UI
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Skyline (3D contribution graph)
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ayushkeshari10
+          SETTING_JSON: |
+            {
+              "githubUserName": "ayushkeshari10",
+              "totalCommits": true,
+              "type": "normal",
+              "backgroundColor": "#0d1117",
+              "foregroundColor": "#7fdbff",
+              "weekLabelColor": "#7fdbff",
+              "dateRangeColor": "#888888"
+            }
+
+      - name: Commit and push 3D graph
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions"
+          git add -A
+          git status
+          git diff-index --quiet HEAD || git commit -m "chore: update 3D contribution graph [skip ci]"
+          git push

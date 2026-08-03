@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 315" width="800" height="315">
+  <defs>
+    <style>
+      @keyframes blink  { 0%,100%{opacity:1} 50%{opacity:0} }
+      @keyframes appear { to{opacity:1} }
+      .cursor { animation: blink 1s step-end infinite; }
+      .l0  { animation:appear .01s .3s  both; opacity:0; }
+      .l1  { animation:appear .01s .65s both; opacity:0; }
+      .l2  { animation:appear .01s 1.0s both; opacity:0; }
+      .l3  { animation:appear .01s 1.3s both; opacity:0; }
+      .l4  { animation:appear .01s 1.6s both; opacity:0; }
+      .l5  { animation:appear .01s 1.9s both; opacity:0; }
+      .l6  { animation:appear .01s 2.2s both; opacity:0; }
+      .l7  { animation:appear .01s 2.5s both; opacity:0; }
+      .l8  { animation:appear .01s 2.8s both; opacity:0; }
+      .l9  { animation:appear .01s 3.1s both; opacity:0; }
+      .l10 { animation:appear .01s 3.5s both; opacity:0; }
+      .t   { font-family:'Courier New',Courier,monospace; font-size:13px; }
+    </style>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="hg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#21262d"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <pattern id="scan" patternUnits="userSpaceOnUse" width="800" height="4">
+      <rect width="800" height="2" fill="rgba(0,0,0,0.05)"/>
+    </pattern>
+  </defs>
+
+  <!-- Terminal background -->
+  <rect width="800" height="315" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Title bar -->
+  <rect width="800" height="36" rx="12" fill="url(#hg)"/>
+  <rect y="24" width="800" height="12" fill="#161b22"/>
+
+  <!-- Traffic lights -->
+  <circle cx="24" cy="18" r="6" fill="#FF5F57"/>
+  <circle cx="44" cy="18" r="6" fill="#FEBC2E"/>
+  <circle cx="64" cy="18" r="6" fill="#28C840"/>
+
+  <!-- Tab title -->
+  <text x="400" y="23" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#6e7681">
+    bash — ayushkeshari10@github: ~ — 148×40
+  </text>
+
+  <!-- Separator -->
+  <line x1="0" y1="36" x2="800" y2="36" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Scanlines overlay -->
+  <rect width="800" height="315" fill="url(#scan)" opacity="0.4" rx="12"/>
+
+  <!-- ── Line 0 ── prompt + command -->
+  <text x="20" y="62" class="t l0" filter="url(#glow)">
+    <tspan fill="#57c76e">ayush@github</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#7fdbff">~</tspan><tspan fill="#6e7681">$ </tspan><tspan fill="#e2e8f0">cat profile.json</tspan>
+  </text>
+
+  <!-- ── Line 1 ── opening brace -->
+  <text x="20" y="83" class="t l1" fill="#6e7681">{</text>
+
+  <!-- ── Line 2 ── name -->
+  <text x="20" y="103" class="t l2">
+    <tspan fill="#6e7681">  </tspan><tspan fill="#ffa116">"name"</tspan><tspan fill="#6e7681">:     </tspan><tspan fill="#98c379">"Ayush Keshari"</tspan><tspan fill="#6e7681">,</tspan>
+  </text>
+
+  <!-- ── Line 3 ── role -->
+  <text x="20" y="123" class="t l3">
+    <tspan fill="#6e7681">  </tspan><tspan fill="#ffa116">"role"</tspan><tspan fill="#6e7681">:     </tspan><tspan fill="#98c379">"Full-Stack Developer"</tspan><tspan fill="#6e7681">,</tspan>
+  </text>
+
+  <!-- ── Line 4 ── location -->
+  <text x="20" y="143" class="t l4">
+    <tspan fill="#6e7681">  </tspan><tspan fill="#ffa116">"location"</tspan><tspan fill="#6e7681">: </tspan><tspan fill="#98c379">"India"</tspan><tspan fill="#6e7681">,</tspan>
+  </text>
+
+  <!-- ── Line 5 ── stack -->
+  <text x="20" y="163" class="t l5">
+    <tspan fill="#6e7681">  </tspan><tspan fill="#ffa116">"stack"</tspan><tspan fill="#6e7681">:    [</tspan><tspan fill="#98c379">"React"</tspan><tspan fill="#6e7681">, </tspan><tspan fill="#98c379">"Node.js"</tspan><tspan fill="#6e7681">, </tspan><tspan fill="#98c379">"Python"</tspan><tspan fill="#6e7681">, </tspan><tspan fill="#98c379">"C++"</tspan><tspan fill="#6e7681">],</tspan>
+  </text>
+
+  <!-- ── Line 6 ── learning -->
+  <text x="20" y="183" class="t l6">
+    <tspan fill="#6e7681">  </tspan><tspan fill="#ffa116">"learning"</tspan><tspan fill="#6e7681">: [</tspan><tspan fill="#98c379">"System Design"</tspan><tspan fill="#6e7681">, </tspan><tspan fill="#98c379">"Cloud Arch"</tspan><tspan fill="#6e7681">, </tspan><tspan fill="#98c379">"DSA Mastery"</tspan><tspan fill="#6e7681">],</tspan>
+  </text>
+
+  <!-- ── Line 7 ── available -->
+  <text x="20" y="203" class="t l7">
+    <tspan fill="#6e7681">  </tspan><tspan fill="#ffa116">"available"</tspan><tspan fill="#6e7681">: </tspan><tspan fill="#e06c75">true</tspan><tspan fill="#6e7681">,  </tspan><tspan fill="#4b5563">// always open for cool projects! 🤝</tspan>
+  </text>
+
+  <!-- ── Line 8 ── motto -->
+  <text x="20" y="223" class="t l8">
+    <tspan fill="#6e7681">  </tspan><tspan fill="#ffa116">"motto"</tspan><tspan fill="#6e7681">:    </tspan><tspan fill="#98c379">"Ship it. Fix it. Learn. Repeat. 🚀"</tspan>
+  </text>
+
+  <!-- ── Line 9 ── closing brace -->
+  <text x="20" y="243" class="t l9" fill="#6e7681">}</text>
+
+  <!-- ── Line 10 ── second prompt + blinking cursor -->
+  <text x="20" y="276" class="t l10" filter="url(#glow)">
+    <tspan fill="#57c76e">ayush@github</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#7fdbff">~</tspan><tspan fill="#6e7681">$ </tspan>
+  </text>
+  <rect x="155" y="262" width="8" height="15" fill="#7fdbff" class="l10 cursor" filter="url(#softglow)"/>
+
+</svg>
